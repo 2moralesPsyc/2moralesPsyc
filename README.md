@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @2moralesPsyc
-- 👀 I’m interested in psychiaty and genomics and using code in the healt sector 
+- 👀 I’m interested in psychiaty and genomics and using code in the health sector 
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on intro to r in health care
 
